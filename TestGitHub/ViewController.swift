@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Hello GitHub, This is my first test")
+        print("Using GitHub Desktop for the first time!")
         // Do any additional setup after loading the view, typically from a nib.
     }
     
